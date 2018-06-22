@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Easy Tip</string>
+    <string name="slogan">Making your tips calculations easier</string>
+    <string name="bill_amount">Bill amount</string>
+    <string name="type_bill_amount">Type Bill Amount</string>
+    <string name="tip_calculator">Tip Calculator</string>
+    <string name="no_of_people">No. of People</string>
+    <string name="type_no_of_people">Type No. of People</string>
+    <string name="type_percentage">Type %</string>
+    <string name="percent_15">15%</string>
+    <string name="percent_20">20%</string>
+    <string name="percent_other">Other</string>
+    <string name="percent">Percent</string>
+    <string name="tip_amout">Tip Amout:</string>
+    <string name="each_person_pays">Each Person Pays:</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="open_nav_drawer">Open</string>
+    <string name="close_nav_drawer">Close</string>
+    <string name="settings">Settings</string>
+</resources>
